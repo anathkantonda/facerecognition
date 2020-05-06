@@ -1,0 +1,12 @@
+.Tilt {
+    background: linear-gradient(to right, rgb(0, 128, 255), rgb(128, 255, 128));
+}
+
+.top {
+    margin-top: 100px;
+}
+
+.image-div {
+    display: flex;
+    justify-content: center;
+}

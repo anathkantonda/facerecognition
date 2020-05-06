@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Courier New', sans-serif;
+  background: linear-gradient(to right, rgb(0, 128, 255), rgb(128, 255, 128));
+}
+
+button {
+  cursor: pointer;
+}
+
